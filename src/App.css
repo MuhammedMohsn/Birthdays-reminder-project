@@ -32,47 +32,60 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
 }
-.container{
+
+.container {
   width: 60%;
   background-color: black;
-  margin:0 auto;
-  height:fit-content !important;
- padding-top:20px;
- padding-bottom:20px;
- 
+  margin: 0 auto;
+  height: fit-content !important;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
 }
-.container h3{
+
+.container h3 {
   text-align: center;
 }
-.person{
-  display:flex;
-text-align: center;
-align-items: center;
-justify-content: center;
+
+.person {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
 }
-.person img{
+
+.person img {
   margin-right: 20px;
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+  border-radius: 50%;
 }
-.person div{
-display:flex;
-text-align: center;
-align-items: center;
-justify-content: center;
-flex-wrap: wrap;
-flex-direction: column;
+
+.person div {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+.person div *{
+  color: white;
 }
 button {
   text-align: center;
-  /* margin: 0 auto; */
-  width:80%;
-  height:30px;
-  font-size:larger;
+  width: 80%;
+  height: 30px;
+  font-size: larger;
   font-weight: bolder;
-  color:black;
-  background-color:purple;
+  color: black;
+  background-color: purple;
   margin-left: 50px;
 }
