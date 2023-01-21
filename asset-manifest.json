@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/Birthdays-reminder-project/static/css/main.325f1d82.css",
-    "main.js": "/Birthdays-reminder-project/static/js/main.003f3a01.js",
+    "main.css": "/Birthdays-reminder-project/static/css/main.77167f49.css",
+    "main.js": "/Birthdays-reminder-project/static/js/main.8e57585e.js",
     "static/js/787.28cb0dcd.chunk.js": "/Birthdays-reminder-project/static/js/787.28cb0dcd.chunk.js",
+    "static/media/one.jpg": "/Birthdays-reminder-project/static/media/one.7f6a8d3df504e2cde885.jpg",
+    "static/media/two.jpg": "/Birthdays-reminder-project/static/media/two.1586a44fcf5e7572bf6a.jpg",
     "index.html": "/Birthdays-reminder-project/index.html",
-    "main.325f1d82.css.map": "/Birthdays-reminder-project/static/css/main.325f1d82.css.map",
-    "main.003f3a01.js.map": "/Birthdays-reminder-project/static/js/main.003f3a01.js.map",
+    "main.77167f49.css.map": "/Birthdays-reminder-project/static/css/main.77167f49.css.map",
+    "main.8e57585e.js.map": "/Birthdays-reminder-project/static/js/main.8e57585e.js.map",
     "787.28cb0dcd.chunk.js.map": "/Birthdays-reminder-project/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.325f1d82.css",
-    "static/js/main.003f3a01.js"
+    "static/css/main.77167f49.css",
+    "static/js/main.8e57585e.js"
   ]
 }
